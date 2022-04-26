@@ -26,8 +26,4 @@ public class Member {
 
     @Encrypted
     private String password;
-
-//    @DocumentReference(lazy = true)
-//    private Set<Room> rooms;
-
 }
